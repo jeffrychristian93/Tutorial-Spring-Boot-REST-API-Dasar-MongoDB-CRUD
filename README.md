@@ -8,15 +8,15 @@ Youtube Playlist : https://www.youtube.com/watch?v=HCgDMERcOKI&list=PLrRIXr6T22j
 HOW TO RUN APPLICATION : 
 
 1. Clone repository to local :
-git clone https://github.com/jeffrychristian93/Tutorial-Spring-Boot-REST-API-Dasar-MongoDB-CRUD.git
+`git clone https://github.com/jeffrychristian93/Tutorial-Spring-Boot-REST-API-Dasar-MongoDB-CRUD.git`
 
 2. Download library yang ada pada aplikasi menggunakan maven command
-mvn install
+`mvn install`
 
 3. Jalankan aplikasi menggunakan maven command
-mvn spring-boot:run
+`mvn spring-boot:run`
 
-4. Akses aplikasi dari browser -> http://localhost:7080/swagger-ui/
+4. Akses aplikasi dari browser -> `http://localhost:7080/swagger-ui/`
 
 
 Note: Jangan lupa download dan install MongoDB sebelum menjalankan aplikasi.
